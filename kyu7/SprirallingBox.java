@@ -1,4 +1,4 @@
-/*
+package kyu7;/*
     =====================================
     @project Algorithms
     @created 06/02/2023    
